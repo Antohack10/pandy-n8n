@@ -1,0 +1,7 @@
+FROM n8nio/n8n
+
+ENV GENERIC_TIMEZONE=America/Bogota
+ENV N8N_BASIC_AUTH_ACTIVE=true
+ENV N8N_BASIC_AUTH_USER=admin
+ENV N8N_BASIC_AUTH_PASSWORD=P4ndy$up3r*)
+ENV WEBHOOK_URL=https://pandy-n8n.onrender.com/
